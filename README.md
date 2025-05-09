@@ -1,3 +1,5 @@
+This is a code-along project to build a sample portfolio, starting to dive into learning Three.js.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
